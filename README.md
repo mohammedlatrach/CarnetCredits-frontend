@@ -7,3 +7,33 @@
     <br/>
   </h3>
 </p>
+
+<ol>
+  <li>Introduction :</li>
+
+  <li>Présentation du projet :</li>
+
+  <li>Contexte :</li>
+
+  <li>Besoin du client :</li>
+
+  <li>Portée du projet :</li>
+
+  <li>Contraintes :</li>
+
+  <li>Critères d’acceptation  :</li>
+
+  <li>Livrables :</li>
+
+  <li>Planning :</li>
+
+  <li>Ressources :</li>
+
+  <li>Communication :</li>
+
+  <li>Gestion des risques :</li>
+
+  <li>Conditions contractuelles :</li>
+
+  <li>Validation :</li>
+</ol>
